@@ -1,0 +1,14 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lu",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
